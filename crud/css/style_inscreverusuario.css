@@ -1,0 +1,22 @@
+body{
+	background-color: #white !important;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.form-control{
+	border: solid 1px #00000065 !important;
+}
+
+.form-check-inline .form-check-input{
+	margin-left: 2%;
+}
+
+.form{			
+	padding-left: 20% !important;
+	padding-right: 20% !important;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border: none;		
+	background-color: white;	
+}
